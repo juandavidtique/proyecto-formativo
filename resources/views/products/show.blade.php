@@ -14,7 +14,7 @@
                     </tr>
                     <tr>
                         <td class="fw-bold">Precio unitario</td>
-                        <td>${{ $products->precio}}</td>
+                        <td>{{ $products->precio}}</td>
                     </tr>
                     <tr>
                         <td class="fw-bold">Cantidad</td>
